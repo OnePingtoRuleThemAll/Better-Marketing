@@ -32,6 +32,6 @@ N/A
 GitHub profile: OnePingtoRuleThemAll
 
 ### Examples and screenshots: 
-![image](Better-Marketing-Links.png)
-![image](Search-Engine-Link-Example.png)
-![image](Search-Engine-Link-Example-2.png)
+![image](/assets/images/Better-Marketing-Links.png)
+![image](/assets/images/Search-Engine-Link-Example.png)
+![image](/assets/images/Search-Engine-Link-Example-2.png)
